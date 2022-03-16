@@ -1,29 +1,22 @@
 <!-- [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")] -->
 
-# Hello, Devs! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Devs! I'm Masood.
 
-- 😊 Myself @Masood Ismail Tamboli
-- 👀 I’m interested in Data Science, ML, Flutter, and much more
-- 🌱 I’m currently learning Flutter and Data Science
-- 💞️ I’m looking to collaborate on Flutter App Dev
-- 📫 How to reach me mr.masoodtamboli@gmail.com
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masoodtamboli&langs_count=10)](https://github.com/masoodtamboli/github-readme-stats)
-<br>
+<a href="https://www.linkedin.com/in/masood-ismail">
+  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
+</a>
+<a href="https://twitter.com/Masood_Ismail07">
+  <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
+</a>
+<a href="mailto:mr.masoodtamboli@gmail.com">
+  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+</a>
+<a href="https://www.instagram.com/mr.masood_ismail/">
+  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
+</a>
+<br />
+<br />
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=masoodtamboli&show_icons=true&theme=radical" />
-
-You can find me on
-<br>
-<img src="https://user-images.githubusercontent.com/45930017/112882882-29ec5300-90eb-11eb-8b66-a295ef947b6c.png" width=15 height=15>  https://www.linkedin.com/in/masood-ismail
-<br>
-<img src="https://user-images.githubusercontent.com/45930017/112883143-7e8fce00-90eb-11eb-931d-30289c86ee72.png" width=15 height=15>  @Masood_Ismail07
-<br>
-<img src="https://user-images.githubusercontent.com/45930017/112883069-691aa400-90eb-11eb-8a2f-e92ac17f606d.png" width=15 height=15>  @mr.masood_ismail
-<br>
-
-
-
-
 
 <!---
 masoodtamboli/masoodtamboli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
